@@ -7,6 +7,14 @@ html, body{
     padding: 0px;
 }
 
+body{
+    background: rgb(19,59,129);
+    background: linear-gradient(180deg, rgba(19,59,129,1) 0%, rgba(1,161,221,1) 100%);
+}
+
+span{
+    overflow: auto;
+}
 
 .grid-container{
     border: 1px solid green;
